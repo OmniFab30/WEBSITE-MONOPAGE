@@ -1,0 +1,58 @@
+/*Teach Headlines*/
+
+@font-face {
+    font-family: 'Tech Headlines';
+    src: 
+        local('Tech Headlines'), 
+        url("//¿Saben?/assets/fonts/Tech-Headlines.woff2") format("woff2");
+
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/*TRT Groza*/
+
+@font-face {
+    font-family: 'TRT Groza';
+    src: 
+        local('TRT Groza'), 
+        url("../../assets/fonts/TRTGrozaDemo-Regular.woff2") format("woff2");
+
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRT Groza';
+    src: 
+        local('TRT Groza'),
+        url("../../assets/fonts/TRTGrozaDemo-Medium.woff2") format("woff2");
+
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRT Groza';
+    src: 
+        local('TRT Groza'), 
+        url("../../assets/fonts/TRTGrozaDemo-SemiBold.woff2") format("woff2");
+
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TRT Groza';
+    src: 
+        local('TRT Groza'),
+        url("../../assets/fonts/TRTGrozaDemo-Bold.woff2") format("woff2");
+
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
