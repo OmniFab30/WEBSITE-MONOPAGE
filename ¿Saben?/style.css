@@ -1,0 +1,22 @@
+@import './css/base/reset.css';
+
+:root{
+
+    /*COLORS*/
+    --bg-blue: #0a1a2f;
+    --bg-black: #1f1f1f;
+
+    --primary: #E67709;
+    --secondary: #780DD4;
+
+    --title: #F0f0f0;
+    --text: #D4C9C9;
+
+    --black: rgba(3,3,3,40%);
+    --white-muted:rgba(255,255,255,20%);
+
+}
+
+body{
+    background: var(--bg-black);
+}

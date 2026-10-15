@@ -1,0 +1,40 @@
+body{
+    min-height: 100vh;
+    line-height: 1.2;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, body, blockquote{
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6, button, input, select, textarea, cite{
+    font: inherit;
+}
+
+ul, ol{
+    list-style: none;
+    padding: 0;
+}
+
+a, button, input, select, textarea{
+    color: inherit;
+    text-decoration: none;
+}
+
+button{
+    border: none;
+    background: transparent;
+    padding: 0;
+}
+
+image, picture, video{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+hr{
+    margin: 0;
+    border: none;
+    color: inherit;
+}
